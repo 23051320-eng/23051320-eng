@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi 👋, I'm Adarsh Mishra
 
-<!--
-**23051320-eng/23051320-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Backend Developer | Spring Boot Enthusiast | DSA Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech Student (2023–2027)
+- ☕ Passionate about Java Backend Development
+- 🌱 Currently learning Spring Boot, Spring Security, AWS, and System Design
+- 💻 Building scalable REST APIs and backend applications
+- 🧩 Regularly solving DSA problems and improving problem-solving skills
+- 🤝 Open to collaborating on Java and Spring Boot projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- C
+- JavaScript
+
+### Backend
+- Spring Boot
+- Spring Security
+- Hibernate / JPA
+- REST APIs
+
+### Database
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- Maven
+- Swagger
+- Postman
+
+---
+
+## 🚀 Projects
+
+### 🏠 Airbnb Clone
+A full-stack Airbnb clone featuring user authentication, property listings, booking management, and review functionality.
+
+**Tech Stack:** Java • Spring Boot • MySQL • Hibernate • REST API
+
+### 📝 Blogging Platform
+A blogging platform with authentication, CRUD operations for posts, comments, and role-based access control.
+
+**Tech Stack:** Java • Spring Boot • MySQL • Spring Security • JWT • REST API
+
+---
+
+## 🎯 Current Focus
+
+- Spring Boot Advanced Concepts
+- Microservices
+- AWS Cloud
+- System Design
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: adarshmishra5134@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/adarsh-mishra2005
+
+---
+
+⭐ Always learning and building.
