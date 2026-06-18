@@ -2,6 +2,8 @@
 
 ### Java Backend Developer | Spring Boot Enthusiast | DSA Learner
 
+![](https://komarev.com/ghpvc/?username=23051320-eng&color=blue)
+
 ---
 
 ## 🚀 About Me
