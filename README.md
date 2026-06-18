@@ -21,8 +21,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
