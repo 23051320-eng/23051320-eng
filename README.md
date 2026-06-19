@@ -62,9 +62,15 @@ A blogging platform with authentication, CRUD operations for posts, comments, an
 
 ## 📫 Connect With Me
 
-- 📧 Email: adarshmishra5134@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/adarsh-mishra2005
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarsh-mishra2005">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <a href="mailto:adarshmishra5134@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 ---
 
 ⭐ Always learning and building.
