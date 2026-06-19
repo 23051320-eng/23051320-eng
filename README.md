@@ -71,6 +71,5 @@ A blogging platform with authentication, CRUD operations for posts, comments, an
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
----
 
 ⭐ Always learning and building.
