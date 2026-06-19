@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -19,7 +18,15 @@
 - 🧩 Regularly solving DSA problems and improving problem-solving skills
 - 🤝 Open to collaborating on Java and Spring Boot projects
 
----
+
+## 🎯 Current Focus
+
+- Spring Boot Advanced Concepts
+- Microservices
+- AWS Cloud
+- System Design
+- Data Structures & Algorithms
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -52,17 +59,6 @@ A blogging platform with authentication, CRUD operations for posts, comments, an
 
 **Tech Stack:** Java • Spring Boot • MySQL • Spring Security • JWT • REST API
 
----
-
-## 🎯 Current Focus
-
-- Spring Boot Advanced Concepts
-- Microservices
-- AWS Cloud
-- System Design
-- Data Structures & Algorithms
-
----
 
 ## 📫 Connect With Me
 
